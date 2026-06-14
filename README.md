@@ -1,4 +1,4 @@
-# POS System
+# POS System- HASSAN HARMAN
 
 A PHP-based Point of Sale (POS) system with inventory management, sales tracking, and multi-role user access.
 
